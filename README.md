@@ -1,2 +1,2 @@
-# OC_P4
+# OpenClassrooms Project 4
 Optimize an Existing Website
